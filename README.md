@@ -18,3 +18,4 @@
 + [arXiv - Dynamic Memory Networks for Visual and Textual Question Answering](https://arxiv.org/abs/1603.01417)
 + https://github.com/barronalex/Dynamic-Memory-Networks-in-TensorFlow
 + https://zhuanlan.zhihu.com/p/30030487
++ https://github.com/DongjunLee/dmn-tensorflow
